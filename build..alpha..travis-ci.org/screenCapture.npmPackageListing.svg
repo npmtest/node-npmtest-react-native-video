@@ -1,0 +1,76 @@
+<svg height="1166" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1166" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-23 10:58:35 +0000   198556 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-23 10:58:35 +0000     1082 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-23 10:58:35 +0000     8655 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-23 10:58:35 +0000     8381 bytes  Video.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-23 10:58:35 +0000      116 bytes  VideoResizeMode.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-23 10:58:35 +0000     1730 bytes  android-exoplayer/README.md</tspan>
+<tspan x="10" y="122">  6.  2017-04-23 10:58:35 +0000      500 bytes  android-exoplayer/build.gradle</tspan>
+<tspan x="10" y="138">  7.  2017-04-23 10:58:35 +0000      123 bytes  android-exoplayer/src/main/AndroidManifest.xml</tspan>
+<tspan x="10" y="154">  8.  2017-04-23 10:58:35 +0000     5094 bytes  android-exoplayer/src/main/java/com/brentvatne/e\</tspan>
+<tspan x="10" y="170">xoplayer/AspectRatioFrameLayout.java</tspan>
+<tspan x="10" y="186">  9.  2017-04-23 10:58:35 +0000     2787 bytes  android-exoplayer/src/main/java/com/brentvatne/e\</tspan>
+<tspan x="10" y="202">xoplayer/DataSourceUtil.java</tspan>
+<tspan x="10" y="218"> 10.  2017-04-23 10:58:35 +0000     7743 bytes  android-exoplayer/src/main/java/com/brentvatne/e\</tspan>
+<tspan x="10" y="234">xoplayer/ExoPlayerView.java</tspan>
+<tspan x="10" y="250"> 11.  2017-04-23 10:58:35 +0000      513 bytes  android-exoplayer/src/main/java/com/brentvatne/e\</tspan>
+<tspan x="10" y="266">xoplayer/RawResourceDataSourceFactory.java</tspan>
+<tspan x="10" y="282"> 12.  2017-04-23 10:58:35 +0000    19186 bytes  android-exoplayer/src/main/java/com/brentvatne/e\</tspan>
+<tspan x="10" y="298">xoplayer/ReactExoplayerView.java</tspan>
+<tspan x="10" y="314"> 13.  2017-04-23 10:58:35 +0000     6374 bytes  android-exoplayer/src/main/java/com/brentvatne/e\</tspan>
+<tspan x="10" y="330">xoplayer/ReactExoplayerViewManager.java</tspan>
+<tspan x="10" y="346"> 14.  2017-04-23 10:58:35 +0000     1863 bytes  android-exoplayer/src/main/java/com/brentvatne/e\</tspan>
+<tspan x="10" y="362">xoplayer/ResizeMode.java</tspan>
+<tspan x="10" y="378"> 15.  2017-04-23 10:58:35 +0000     6984 bytes  android-exoplayer/src/main/java/com/brentvatne/e\</tspan>
+<tspan x="10" y="394">xoplayer/VideoEventEmitter.java</tspan>
+<tspan x="10" y="410"> 16.  2017-04-23 10:58:35 +0000      929 bytes  android-exoplayer/src/main/java/com/brentvatne/r\</tspan>
+<tspan x="10" y="426">eact/ReactVideoPackage.java</tspan>
+<tspan x="10" y="442"> 17.  2017-04-23 10:58:35 +0000     1232 bytes  android-exoplayer/src/main/java/com/brentvatne/r\</tspan>
+<tspan x="10" y="458">eceiver/AudioBecomingNoisyReceiver.java</tspan>
+<tspan x="10" y="474"> 18.  2017-04-23 10:58:35 +0000      270 bytes  android-exoplayer/src/main/java/com/brentvatne/r\</tspan>
+<tspan x="10" y="490">eceiver/BecomingNoisyListener.java</tspan>
+<tspan x="10" y="506"> 19.  2017-04-23 10:58:35 +0000      593 bytes  android-exoplayer/src/main/res/values/strings.xm\</tspan>
+<tspan x="10" y="522">l</tspan>
+<tspan x="10" y="538"> 20.  2017-04-23 10:58:35 +0000      425 bytes  android/build.gradle</tspan>
+<tspan x="10" y="554"> 21.  2017-04-23 10:58:35 +0000      123 bytes  android/src/main/AndroidManifest.xml</tspan>
+<tspan x="10" y="570"> 22.  2017-04-23 10:58:35 +0000     8885 bytes  android/src/main/java/com/android/vending/expans\</tspan>
+<tspan x="10" y="586">ion/zipfile/APEZProvider.java</tspan>
+<tspan x="10" y="602"> 23.  2017-04-23 10:58:35 +0000     2946 bytes  android/src/main/java/com/android/vending/expans\</tspan>
+<tspan x="10" y="618">ion/zipfile/APKExpansionSupport.java</tspan>
+<tspan x="10" y="634"> 24.  2017-04-23 10:58:35 +0000    15710 bytes  android/src/main/java/com/android/vending/expans\</tspan>
+<tspan x="10" y="650">ion/zipfile/ZipResourceFile.java</tspan>
+<tspan x="10" y="666"> 25.  2017-04-23 10:58:35 +0000      908 bytes  android/src/main/java/com/brentvatne/react/React\</tspan>
+<tspan x="10" y="682">VideoPackage.java</tspan>
+<tspan x="10" y="698"> 26.  2017-04-23 10:58:35 +0000    19261 bytes  android/src/main/java/com/brentvatne/react/React\</tspan>
+<tspan x="10" y="714">VideoView.java</tspan>
+<tspan x="10" y="730"> 27.  2017-04-23 10:58:35 +0000     5586 bytes  android/src/main/java/com/brentvatne/react/React\</tspan>
+<tspan x="10" y="746">VideoViewManager.java</tspan>
+<tspan x="10" y="762"> 28.  2017-04-23 10:58:35 +0000     1615 bytes  ios/RCTVideo.h</tspan>
+<tspan x="10" y="778"> 29.  2017-04-23 10:58:35 +0000    25467 bytes  ios/RCTVideo.m</tspan>
+<tspan x="10" y="794"> 30.  2017-04-23 10:58:35 +0000    10552 bytes  ios/RCTVideo.xcodeproj/project.pbxproj</tspan>
+<tspan x="10" y="810"> 31.  2017-04-23 10:58:35 +0000       84 bytes  ios/RCTVideoManager.h</tspan>
+<tspan x="10" y="826"> 32.  2017-04-23 10:58:35 +0000     2420 bytes  ios/RCTVideoManager.m</tspan>
+<tspan x="10" y="842"> 33.  2017-04-23 10:58:35 +0000      407 bytes  ios/RCTVideoPlayerViewController.h</tspan>
+<tspan x="10" y="858"> 34.  2017-04-23 10:58:35 +0000      436 bytes  ios/RCTVideoPlayerViewController.m</tspan>
+<tspan x="10" y="874"> 35.  2017-04-23 10:58:35 +0000      307 bytes  ios/RCTVideoPlayerViewControllerDelegate.h</tspan>
+<tspan x="10" y="890"> 36.  2017-04-23 10:58:35 +0000      390 bytes  ios/UIView+FindUIViewController.h</tspan>
+<tspan x="10" y="906"> 37.  2017-04-23 10:58:35 +0000      735 bytes  ios/UIView+FindUIViewController.m</tspan>
+<tspan x="10" y="922"> 38.  2017-04-23 10:58:35 +0000      824 bytes  package.json</tspan>
+<tspan x="10" y="938"> 39.  2017-04-23 10:58:35 +0000      632 bytes  react-native-video.podspec</tspan>
+<tspan x="10" y="954"> 40.  2017-04-23 10:58:35 +0000     1052 bytes  windows/ReactNativeVideo/Properties/AssemblyInfo\</tspan>
+<tspan x="10" y="970">.cs</tspan>
+<tspan x="10" y="986"> 41.  2017-04-23 10:58:35 +0000     1546 bytes  windows/ReactNativeVideo/Properties/ReactNativeV\</tspan>
+<tspan x="10" y="1002">ideo.rd.xml</tspan>
+<tspan x="10" y="1018"> 42.  2017-04-23 10:58:35 +0000     5529 bytes  windows/ReactNativeVideo/ReactNativeVideo.csproj</tspan>
+<tspan x="10" y="1034"> 43.  2017-04-23 10:58:35 +0000      226 bytes  windows/ReactNativeVideo/ReactVideoEventType.cs</tspan>
+<tspan x="10" y="1050"> 44.  2017-04-23 10:58:35 +0000     1324 bytes  windows/ReactNativeVideo/ReactVideoEventTypeExte\</tspan>
+<tspan x="10" y="1066">nsions.cs</tspan>
+<tspan x="10" y="1082"> 45.  2017-04-23 10:58:35 +0000      748 bytes  windows/ReactNativeVideo/ReactVideoPackage.cs</tspan>
+<tspan x="10" y="1098"> 46.  2017-04-23 10:58:35 +0000    11797 bytes  windows/ReactNativeVideo/ReactVideoView.cs</tspan>
+<tspan x="10" y="1114"> 47.  2017-04-23 10:58:35 +0000     4147 bytes  windows/ReactNativeVideo/ReactVideoViewManager.c\</tspan>
+<tspan x="10" y="1130">s</tspan>
+<tspan x="10" y="1146"> 48.  2017-04-23 10:58:35 +0000      319 bytes  windows/ReactNativeVideo/project.json</tspan>
+</text>
+</svg>
